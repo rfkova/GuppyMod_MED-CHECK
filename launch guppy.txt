@@ -1,0 +1,3 @@
+conda activate guppy
+cd C:\Users\rfkov\Documents\GuPPy-main\GuPPy
+panel serve --show savingInputParameters.ipynb
